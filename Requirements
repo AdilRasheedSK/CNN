@@ -1,0 +1,3 @@
+ g++ /home/mcw/Desktop/CNN/conv2.cpp -o /home/mcw/Desktop/CNN/conv2 -I/home/mcw/Desktop/CNN/cnpy -L/home/mcw/Desktop/CNN/build -lcnpy -lz
+
+ export LD_LIBRARY_PATH=/home/mcw/Desktop/CNN/cnpy/build:$LD_LIBRARY_PATH
